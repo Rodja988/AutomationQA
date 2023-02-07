@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 public class UserLoggedInPage extends BasePage{
 
 
-
     public UserLoggedInPage(WebDriver driver) {
         super(driver);
     }
